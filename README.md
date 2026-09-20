@@ -28,6 +28,7 @@ PCB thickness: 1.6mm
 
 02_WS_DM_Adapter_Bottom.stl
 
+https://www.thingiverse.com/thing:7411938
 ## Other Parts
 M2x5 Self-tapping Screw
 
