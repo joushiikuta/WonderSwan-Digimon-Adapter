@@ -43,6 +43,8 @@ Wires
 ## Notes
 Devices released after 2026 may not be supported.
 
+For the DIGIMON ORIGINAL NEW WAVE 2, R1 is 2.2 kΩ and R2 is 18 kΩ.
+
 The opening is larger than the connector, so make sure to insert the HDMI male connector along the bottom edge of the opening.
 
 <img src="./assets/Notes.png" height="360">
